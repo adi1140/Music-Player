@@ -19,8 +19,8 @@ let allMusic = [
   {
     name: "AUR Shikayat",
     artist: "AUR",
-    img: "",
-    src: "AUR  SHIKAYAT Lyrics"
+    img: "Aur Shikayat",
+    src: "AUR SHIKAYAT Lyrics"
   },
   {
     name: "arley Bird - Home",
