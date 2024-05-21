@@ -17,6 +17,12 @@ let allMusic = [
     src: "music-7" 
   },
   {
+    name: "AUR Shikayat",
+    artist: "AUR",
+    img: "",
+    src: "AUR  SHIKAYAT Lyrics"
+  },
+  {
     name: "arley Bird - Home",
     artist: "Jordan Schor",
     img: "",
